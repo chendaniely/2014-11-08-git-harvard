@@ -1,3 +1,7 @@
 This is a test of the emergency broadcasting system.
 
 This is only a test.
+
+You will now hear a tone for 30 seconds.
+
+This is not an emergency; this is a test.
