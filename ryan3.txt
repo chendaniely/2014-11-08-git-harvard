@@ -6,6 +6,7 @@ T_star = 5000
 pi = 3.141592654
 H = 1
 sfb = 1
+t = 5
 
 def dlnh_dlnr(h0, h1, r0, r1):
 	val = (np.ln(h1) - np.ln(h0))/(np.ln(r1)-np.ln(r0))
