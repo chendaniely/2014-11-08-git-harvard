@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my favorite number is 11
+=======
+my favorite number is 24
+>>>>>>> 71b53c781795086d6572922e64e2f24f2a68f452
